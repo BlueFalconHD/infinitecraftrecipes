@@ -134,8 +134,8 @@ type Item struct {
 type CraftingData struct {
 	Items    map[string]*Item   `json:"items"`                    // Map of items by their names
 	Recipes  map[string]*Recipe `json:"recipes,omitempty"` // Map of processed recipes
-	ItemID   int                `json:"itemID"`                   // Counter for generating unique item IDs
-	RecipeID int                `json:"recipeID"`                 // Counter for generating unique recipe IDs
+	ItemID   int                `json:"-"`                   // Counter for generating unique item IDs
+	RecipeID int                `json:"-"`                 // Counter for generating unique recipe IDs
 }
 
 // addItem adds a new item to the CraftingData or updates an existing one with a new recipe.
