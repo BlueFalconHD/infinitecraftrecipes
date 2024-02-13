@@ -133,7 +133,7 @@ type Item struct {
 // including items, recipes, and identifiers for newly generated items and recipes.
 type CraftingData struct {
 	Items    map[string]*Item   `json:"items"`                    // Map of items by their names
-	Recipes  map[string]*Recipe `json:"processedPairs,omitempty"` // Map of processed recipes
+	Recipes  map[string]*Recipe `json:"recipes,omitempty"` // Map of processed recipes
 	ItemID   int                `json:"itemID"`                   // Counter for generating unique item IDs
 	RecipeID int                `json:"recipeID"`                 // Counter for generating unique recipe IDs
 }
