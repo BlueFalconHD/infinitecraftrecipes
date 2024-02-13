@@ -6,6 +6,8 @@ This go program can try every possible recipe for a certain number of iterations
 ## Usage
 You must modify the program to change the iteration count (soon to be a command line option, along with rate limiting delay time, etc.). Running `go run main.go` or building and running will start the process. The time it takes for each iteration isn't linear, the more iterations, the more time.
 
+I **highly** recommend using a VPN when running this, so if you do get ratelimited, you can still use Infinite Craft when your turn your VPN off.
+
 ## Output format
 After running, a file (`crafting_data.json`) will be outputted, with the following data structure.
 
