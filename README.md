@@ -38,3 +38,13 @@ Each item in the `recipes` object is keyed with the two components of the recipe
   "result": "Wish"
 }
 ```
+
+## Ideas
+I really want to implement or add some of the following features:
+
+- Weight function determining which recipes should be attempted first
+- Web UI/Recipe browser
+- Proxy support to bypass ratelimiting
+- CLI + options
+
+If you know how, feel free to submit a PR implementing any of these.
