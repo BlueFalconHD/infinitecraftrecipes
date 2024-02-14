@@ -45,7 +45,7 @@ Each item in the `recipes` object is keyed with the two components of the recipe
 I really want to implement or add some of the following features:
 
 - Weight function determining which recipes should be attempted first
-- Web UI/Recipe browser
+- ~~Web UI/Recipe browser~~ https://github.com/BlueFalconHD/infinite-craft-recipes-web
 - Proxy support to bypass ratelimiting
 - CLI + options
 
