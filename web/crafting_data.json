@@ -1,0 +1,3448 @@
+{
+  "items": {
+    "Allergy": {
+      "emoji": "🤧",
+      "name": "Allergy",
+      "recipes": [
+        "Pollen+Fog",
+        "Surf+Pollen",
+        "Wind+Pollen",
+        "Pollen+Swamp",
+        "Storm+Pollen",
+        "Dust+Pollen",
+        "Dandelion+Pollen"
+      ]
+    },
+    "Amber": {
+      "emoji": "🌾",
+      "name": "Amber",
+      "recipes": [
+        "Stone+Pollen"
+      ]
+    },
+    "Ash": {
+      "emoji": "🌋",
+      "name": "Ash",
+      "recipes": [
+        "Fire+Dust",
+        "Tree+Fire",
+        "Dust+Volcano",
+        "Fire+Dandelion"
+      ]
+    },
+    "Beach": {
+      "emoji": "🏖️",
+      "name": "Beach",
+      "recipes": [
+        "Surf+Mud",
+        "Earth+Surf",
+        "Wave+Sand",
+        "Seaweed+Sand",
+        "Wave+Mud",
+        "Surf+Sand",
+        "Water+Sand",
+        "Tsunami+Sand",
+        "Mud+Sand"
+      ]
+    },
+    "Bee": {
+      "emoji": "🐝",
+      "name": "Bee",
+      "recipes": [
+        "Planet+Pollen",
+        "Engine+Pollen",
+        "Smoke+Pollen",
+        "Tree+Pollen"
+      ]
+    },
+    "Bog": {
+      "emoji": "💩",
+      "name": "Bog",
+      "recipes": [
+        "Storm+Swamp"
+      ]
+    },
+    "Brick": {
+      "emoji": "🧱",
+      "name": "Brick",
+      "recipes": [
+        "Mud+Fire"
+      ]
+    },
+    "Buddha": {
+      "emoji": "🧘‍♂️",
+      "name": "Buddha",
+      "recipes": [
+        "Incense+Stone"
+      ]
+    },
+    "Cactus": {
+      "emoji": "🌵",
+      "name": "Cactus",
+      "recipes": [
+        "Plant+Sand",
+        "Plant+Sandstorm"
+      ]
+    },
+    "Car": {
+      "emoji": "🚗",
+      "name": "Car",
+      "recipes": [
+        "Engine+Plant"
+      ]
+    },
+    "Chai": {
+      "emoji": "🍵",
+      "name": "Chai",
+      "recipes": [
+        "Tea+Fire"
+      ]
+    },
+    "Cinder": {
+      "emoji": "🌋",
+      "name": "Cinder",
+      "recipes": [
+        "Dust+Ash"
+      ]
+    },
+    "Clay": {
+      "emoji": "🏺",
+      "name": "Clay",
+      "recipes": [
+        "Mud+Stone",
+        "Dust+Mud",
+        "Lava+Mud",
+        "Earth+Mud",
+        "Ash+Mud"
+      ]
+    },
+    "Cloud": {
+      "emoji": "☁️",
+      "name": "Cloud",
+      "recipes": [
+        "Wind+Steam",
+        "Water+Steam",
+        "Dust+Steam",
+        "Wind+Smoke",
+        "Smoke+Steam",
+        "Wind+Fog",
+        "Tree+Steam",
+        "Smoke+Fog",
+        "Steam+Fog"
+      ]
+    },
+    "Coral": {
+      "emoji": "🐠",
+      "name": "Coral",
+      "recipes": [
+        "Seaweed+Stone"
+      ]
+    },
+    "Cough": {
+      "emoji": "🤧",
+      "name": "Cough",
+      "recipes": [
+        "Ash+Pollen"
+      ]
+    },
+    "Dandelion": {
+      "emoji": "🌼",
+      "name": "Dandelion",
+      "recipes": [
+        "Wind+Plant"
+      ]
+    },
+    "Desert": {
+      "emoji": "🏜️",
+      "name": "Desert",
+      "recipes": [
+        "Sand+Swamp",
+        "Earth+Sand",
+        "Sand+Fog",
+        "Smoke+Sand",
+        "Tree+Sand",
+        "Planet+Sand",
+        "Sandstorm+Sand"
+      ]
+    },
+    "Dragon": {
+      "emoji": "🐉",
+      "name": "Dragon",
+      "recipes": [
+        "Steam+Swamp",
+        "Fire+Swamp",
+        "Smoke+Swamp"
+      ]
+    },
+    "Dune": {
+      "emoji": "🌵",
+      "name": "Dune",
+      "recipes": [
+        "Storm+Sand",
+        "Wind+Sand",
+        "Earth+Sandstorm"
+      ]
+    },
+    "Dust": {
+      "emoji": "🌫️",
+      "name": "Dust",
+      "recipes": [
+        "Earth+Wind",
+        "Smoke+Dust",
+        "Mud+Sandstorm",
+        "Ash+Storm",
+        "Ash+Sandstorm",
+        "Sandstorm+Pollen",
+        "Sandstorm+Dandelion",
+        "Ash+Wind",
+        "Pollen+Sand",
+        "Smoke+Sandstorm",
+        "Mud+Wind",
+        "Cloud+Sandstorm",
+        "Tea+Sandstorm"
+      ]
+    },
+    "Dust Storm": {
+      "emoji": "🌪️",
+      "name": "Dust Storm",
+      "recipes": [
+        "Sandstorm+Fog",
+        "Sandstorm+Storm",
+        "Sandstorm+Wind"
+      ]
+    },
+    "Earth": {
+      "emoji": "🌎",
+      "name": "Earth",
+      "recipes": [
+        "",
+        "Planet+Swamp",
+        "Planet+Mud",
+        "Seaweed+Planet",
+        "Lava+Planet",
+        "Tree+Planet",
+        "Volcano+Planet",
+        "Dust+Planet",
+        "Planet+Plant"
+      ]
+    },
+    "Earthquake": {
+      "emoji": "🌋",
+      "name": "Earthquake",
+      "recipes": [
+        "Planet+Tsunami",
+        "Volcano+Tsunami"
+      ]
+    },
+    "Engine": {
+      "emoji": "🚗",
+      "name": "Engine",
+      "recipes": [
+        "Fire+Steam"
+      ]
+    },
+    "Eruption": {
+      "emoji": "🌋",
+      "name": "Eruption",
+      "recipes": [
+        "Volcano+Storm",
+        "Volcano+Sandstorm",
+        "Volcano+Smoke",
+        "Volcano+Pollen",
+        "Volcano+Wind",
+        "Volcano+Fog",
+        "Lava+Volcano"
+      ]
+    },
+    "Fairy": {
+      "emoji": "🧚",
+      "name": "Fairy",
+      "recipes": [
+        "Dandelion+Fog"
+      ]
+    },
+    "Fire": {
+      "emoji": "🔥",
+      "name": "Fire",
+      "recipes": [
+        "",
+        "Smoke+Ash",
+        "Lava+Dandelion",
+        "Smoke+Dandelion",
+        "Tree+Smoke"
+      ]
+    },
+    "Fireworks": {
+      "emoji": "🎆",
+      "name": "Fireworks",
+      "recipes": [
+        "Volcano+Dandelion"
+      ]
+    },
+    "Flower": {
+      "emoji": "🌸",
+      "name": "Flower",
+      "recipes": [
+        "Plant+Pollen",
+        "Earth+Pollen",
+        "Steam+Pollen",
+        "Earth+Dandelion"
+      ]
+    },
+    "Fog": {
+      "emoji": "🌫️",
+      "name": "Fog",
+      "recipes": [
+        "Smoke+Water",
+        "Cloud+Swamp",
+        "Smoke+Cloud"
+      ]
+    },
+    "Forest": {
+      "emoji": "🌲",
+      "name": "Forest",
+      "recipes": [
+        "Tree+Plant",
+        "Tree+Earth",
+        "Tree+Tsunami"
+      ]
+    },
+    "Fossil": {
+      "emoji": "🦴",
+      "name": "Fossil",
+      "recipes": [
+        "Stone+Plant"
+      ]
+    },
+    "Frog": {
+      "emoji": "🐸",
+      "name": "Frog",
+      "recipes": [
+        "Dandelion+Swamp"
+      ]
+    },
+    "Genie": {
+      "emoji": "🧞‍♂️",
+      "name": "Genie",
+      "recipes": [
+        "Incense+Sandstorm"
+      ]
+    },
+    "Geysir": {
+      "emoji": "🌋",
+      "name": "Geysir",
+      "recipes": [
+        "Steam+Stone"
+      ]
+    },
+    "Ghost": {
+      "emoji": "👻",
+      "name": "Ghost",
+      "recipes": [
+        "Fog+Swamp",
+        "Tree+Fog"
+      ]
+    },
+    "Glass": {
+      "emoji": "🥃",
+      "name": "Glass",
+      "recipes": [
+        "Ash+Sand",
+        "Fire+Sand",
+        "Steam+Sand",
+        "Volcano+Sand",
+        "Lava+Sand"
+      ]
+    },
+    "Helicopter": {
+      "emoji": "🚁",
+      "name": "Helicopter",
+      "recipes": [
+        "Engine+Dandelion"
+      ]
+    },
+    "Honey": {
+      "emoji": "🍯",
+      "name": "Honey",
+      "recipes": [
+        "Tea+Pollen",
+        "Tsunami+Pollen",
+        "Water+Pollen"
+      ]
+    },
+    "Hurricane": {
+      "emoji": "🌀",
+      "name": "Hurricane",
+      "recipes": [
+        "Tsunami+Wind",
+        "Planet+Storm"
+      ]
+    },
+    "Ice": {
+      "emoji": "❄️",
+      "name": "Ice",
+      "recipes": [
+        "Water+Fog"
+      ]
+    },
+    "Incense": {
+      "emoji": "🕯️",
+      "name": "Incense",
+      "recipes": [
+        "Smoke+Plant"
+      ]
+    },
+    "Island": {
+      "emoji": "🏝️",
+      "name": "Island",
+      "recipes": [
+        "Earth+Tsunami"
+      ]
+    },
+    "Jet": {
+      "emoji": "✈️",
+      "name": "Jet",
+      "recipes": [
+        "Engine+Cloud"
+      ]
+    },
+    "Kelp": {
+      "emoji": "🌿",
+      "name": "Kelp",
+      "recipes": [
+        "Seaweed+Dandelion",
+        "Seaweed+Pollen",
+        "Dust+Seaweed",
+        "Seaweed+Fog",
+        "Seaweed+Plant",
+        "Seaweed+Ash",
+        "Seaweed+Tree",
+        "Seaweed+Earth",
+        "Water+Seaweed"
+      ]
+    },
+    "Kite": {
+      "emoji": "🪁",
+      "name": "Kite",
+      "recipes": [
+        "Tea+Wind",
+        "Seaweed+Wind"
+      ]
+    },
+    "Lagoon": {
+      "emoji": "🌊",
+      "name": "Lagoon",
+      "recipes": [
+        "Surf+Swamp"
+      ]
+    },
+    "Lava": {
+      "emoji": "🌋",
+      "name": "Lava",
+      "recipes": [
+        "Earth+Fire",
+        "Volcano+Earth",
+        "Water+Volcano",
+        "Volcano+Wave",
+        "Volcano+Ash",
+        "Volcano+Steam",
+        "Volcano+Tea",
+        "Volcano+Plant",
+        "Volcano+Swamp",
+        "Volcano+Fire",
+        "Volcano+Stone",
+        "Stone+Fire",
+        "Volcano+Tree",
+        "Volcano+Mud"
+      ]
+    },
+    "Leaf": {
+      "emoji": "🍃",
+      "name": "Leaf",
+      "recipes": [
+        "Tree+Wind"
+      ]
+    },
+    "Lightning": {
+      "emoji": "⚡️",
+      "name": "Lightning",
+      "recipes": [
+        "Cloud+Fire",
+        "Tree+Storm"
+      ]
+    },
+    "Lotus": {
+      "emoji": "🌺",
+      "name": "Lotus",
+      "recipes": [
+        "Mud+Pollen"
+      ]
+    },
+    "Mangrove": {
+      "emoji": "🌱",
+      "name": "Mangrove",
+      "recipes": [
+        "Tree+Swamp"
+      ]
+    },
+    "Mars": {
+      "emoji": "🪐",
+      "name": "Mars",
+      "recipes": [
+        "Planet+Sandstorm"
+      ]
+    },
+    "Marsh": {
+      "emoji": "🌿",
+      "name": "Marsh",
+      "recipes": [
+        "Water+Swamp"
+      ]
+    },
+    "Matcha": {
+      "emoji": "🍵",
+      "name": "Matcha",
+      "recipes": [
+        "Ash+Tea"
+      ]
+    },
+    "Meteor": {
+      "emoji": "💫",
+      "name": "Meteor",
+      "recipes": [
+        "Planet+Stone",
+        "Stone+Storm"
+      ]
+    },
+    "Mist": {
+      "emoji": "🌫️",
+      "name": "Mist",
+      "recipes": [
+        "Wind+Swamp",
+        "Tsunami+Fog",
+        "Earth+Fog"
+      ]
+    },
+    "Moon": {
+      "emoji": "🌙",
+      "name": "Moon",
+      "recipes": [
+        "Earth+Planet"
+      ]
+    },
+    "Mosquito": {
+      "emoji": "🦟",
+      "name": "Mosquito",
+      "recipes": [
+        "Incense+Swamp"
+      ]
+    },
+    "Mud": {
+      "emoji": "💩",
+      "name": "Mud",
+      "recipes": [
+        "Water+Dust",
+        "Earth+Steam",
+        "Ash+Swamp",
+        "Earth+Swamp",
+        "Dust+Swamp"
+      ]
+    },
+    "Mudslide": {
+      "emoji": "🌋",
+      "name": "Mudslide",
+      "recipes": [
+        "Mud+Storm",
+        "Mud+Tsunami"
+      ]
+    },
+    "Mudweed": {
+      "emoji": "🌿",
+      "name": "Mudweed",
+      "recipes": [
+        "Seaweed+Mud"
+      ]
+    },
+    "Mushroom": {
+      "emoji": "🍄",
+      "name": "Mushroom",
+      "recipes": [
+        "Plant+Fog"
+      ]
+    },
+    "Nothing": {
+      "emoji": "",
+      "name": "Nothing",
+      "recipes": [
+        "Tea+Swamp",
+        "Tea+Tsunami",
+        "Mud+Tea",
+        "Smoke+Tea"
+      ]
+    },
+    "Oasis": {
+      "emoji": "🏜️",
+      "name": "Oasis",
+      "recipes": [
+        "Water+Sandstorm",
+        "Sandstorm+Swamp"
+      ]
+    },
+    "Obsidian": {
+      "emoji": "🔪",
+      "name": "Obsidian",
+      "recipes": [
+        "Lava+Stone"
+      ]
+    },
+    "Ocean": {
+      "emoji": "🌊",
+      "name": "Ocean",
+      "recipes": [
+        "Water+Planet",
+        "Water+Tsunami"
+      ]
+    },
+    "Palm": {
+      "emoji": "🌴",
+      "name": "Palm",
+      "recipes": [
+        "Tree+Surf"
+      ]
+    },
+    "Palm Tree": {
+      "emoji": "🌴",
+      "name": "Palm Tree",
+      "recipes": [
+        "Tree+Sandstorm"
+      ]
+    },
+    "Pencil": {
+      "emoji": "✏️",
+      "name": "Pencil",
+      "recipes": [
+        "Tree+Ash"
+      ]
+    },
+    "Perfume": {
+      "emoji": "👃",
+      "name": "Perfume",
+      "recipes": [
+        "Incense+Pollen",
+        "Water+Incense",
+        "Incense+Mud"
+      ]
+    },
+    "Phoenix": {
+      "emoji": "🔥",
+      "name": "Phoenix",
+      "recipes": [
+        "Ash+Fire"
+      ]
+    },
+    "Planet": {
+      "emoji": "🪐",
+      "name": "Planet",
+      "recipes": [
+        "Earth+Dust"
+      ]
+    },
+    "Plant": {
+      "emoji": "🌱",
+      "name": "Plant",
+      "recipes": [
+        "Earth+Water",
+        "Earth+Incense"
+      ]
+    },
+    "Plantea": {
+      "emoji": "🌱",
+      "name": "Plantea",
+      "recipes": [
+        "Planet+Tea"
+      ]
+    },
+    "Pollen": {
+      "emoji": "🌱",
+      "name": "Pollen",
+      "recipes": [
+        "Plant+Dust"
+      ]
+    },
+    "Poseidon": {
+      "emoji": "🌊",
+      "name": "Poseidon",
+      "recipes": [
+        "Incense+Tsunami",
+        "Tree+Incense"
+      ]
+    },
+    "Prayer": {
+      "emoji": "🙏",
+      "name": "Prayer",
+      "recipes": [
+        "Dust+Incense",
+        "Smoke+Incense"
+      ]
+    },
+    "Puddle": {
+      "emoji": "💦",
+      "name": "Puddle",
+      "recipes": [
+        "Water+Ash",
+        "Mud+Dandelion"
+      ]
+    },
+    "Pyramid": {
+      "emoji": "🗿",
+      "name": "Pyramid",
+      "recipes": [
+        "Stone+Sand"
+      ]
+    },
+    "Quagmire": {
+      "emoji": "💩",
+      "name": "Quagmire",
+      "recipes": [
+        "Mud+Swamp"
+      ]
+    },
+    "Rain": {
+      "emoji": "🌧️",
+      "name": "Rain",
+      "recipes": [
+        "Volcano+Cloud",
+        "Water+Cloud",
+        "Cloud+Storm",
+        "Steam+Storm",
+        "Dust+Cloud",
+        "Water+Storm",
+        "Earth+Cloud",
+        "Incense+Storm",
+        "Cloud+Pollen",
+        "Storm+Fog",
+        "Cloud+Sand",
+        "Cloud+Dandelion",
+        "Cloud+Stone",
+        "Cloud+Fog",
+        "Cloud+Plant",
+        "Tree+Cloud",
+        "Cloud+Wave",
+        "Cloud+Steam",
+        "Cloud+Tea"
+      ]
+    },
+    "Rainbow": {
+      "emoji": "🌈",
+      "name": "Rainbow",
+      "recipes": [
+        "Cloud+Tsunami"
+      ]
+    },
+    "River": {
+      "emoji": "🌊",
+      "name": "River",
+      "recipes": [
+        "Water+Tree"
+      ]
+    },
+    "Rock": {
+      "emoji": "🪨",
+      "name": "Rock",
+      "recipes": [
+        "Earth+Stone",
+        "Wave+Stone",
+        "Stone+Tea",
+        "Tree+Stone",
+        "Water+Stone",
+        "Surf+Stone"
+      ]
+    },
+    "Sand": {
+      "emoji": "🏖️",
+      "name": "Sand",
+      "recipes": [
+        "Earth+Wave",
+        "Dust+Wave",
+        "Engine+Sandstorm",
+        "Steam+Sandstorm",
+        "Stone+Wind",
+        "Dust+Stone",
+        "Dust+Tsunami",
+        "Dust+Surf"
+      ]
+    },
+    "Sandbox": {
+      "emoji": "🏖️",
+      "name": "Sandbox",
+      "recipes": [
+        "Engine+Sand"
+      ]
+    },
+    "Sandcastle": {
+      "emoji": "🏖️",
+      "name": "Sandcastle",
+      "recipes": [
+        "Dandelion+Sand"
+      ]
+    },
+    "Sandstorm": {
+      "emoji": "🌪️",
+      "name": "Sandstorm",
+      "recipes": [
+        "Wind+Dust",
+        "Dust+Sand"
+      ]
+    },
+    "Sandwich": {
+      "emoji": "🥪",
+      "name": "Sandwich",
+      "recipes": [
+        "Tea+Sand"
+      ]
+    },
+    "Saturn": {
+      "emoji": "🪐",
+      "name": "Saturn",
+      "recipes": [
+        "Engine+Planet"
+      ]
+    },
+    "Seaweed": {
+      "emoji": "🌊",
+      "name": "Seaweed",
+      "recipes": [
+        "Plant+Wave",
+        "Wave+Dandelion"
+      ]
+    },
+    "Seed": {
+      "emoji": "🌱",
+      "name": "Seed",
+      "recipes": [
+        "Dandelion+Wind",
+        "Dandelion+Storm"
+      ]
+    },
+    "Sky": {
+      "emoji": "🌌",
+      "name": "Sky",
+      "recipes": [
+        "Planet+Cloud"
+      ]
+    },
+    "Smog": {
+      "emoji": "🌫️",
+      "name": "Smog",
+      "recipes": [
+        "Dust+Fog"
+      ]
+    },
+    "Smoke": {
+      "emoji": "💨",
+      "name": "Smoke",
+      "recipes": [
+        "Fire+Wind",
+        "Fire+Plant",
+        "Incense+Ash",
+        "Incense+Plant",
+        "Fire+Pollen",
+        "Incense+Steam",
+        "Incense+Tea",
+        "Incense+Wave",
+        "Incense+Fire",
+        "Incense+Fog",
+        "Ash+Steam",
+        "Cloud+Incense",
+        "Fire+Fog",
+        "Incense+Wind",
+        "Volcano+Incense",
+        "Ash+Fog",
+        "Cloud+Ash"
+      ]
+    },
+    "Snake": {
+      "emoji": "🐍",
+      "name": "Snake",
+      "recipes": [
+        "Incense+Sand"
+      ]
+    },
+    "Soil": {
+      "emoji": "🌱",
+      "name": "Soil",
+      "recipes": [
+        "Earth+Ash"
+      ]
+    },
+    "Sphinx": {
+      "emoji": "🐫",
+      "name": "Sphinx",
+      "recipes": [
+        "Stone+Sandstorm"
+      ]
+    },
+    "Statue": {
+      "emoji": "🗽",
+      "name": "Statue",
+      "recipes": [
+        "Smoke+Stone",
+        "Stone+Swamp",
+        "Ash+Stone",
+        "Stone+Fog"
+      ]
+    },
+    "Steam": {
+      "emoji": "💨",
+      "name": "Steam",
+      "recipes": [
+        "Water+Fire",
+        "Fire+Wave",
+        "Engine+Incense",
+        "Engine+Smoke",
+        "Engine+Fire",
+        "Engine+Fog",
+        "Engine+Ash",
+        "Water+Engine",
+        "Volcano+Engine"
+      ]
+    },
+    "Steampunk": {
+      "emoji": "🕯️",
+      "name": "Steampunk",
+      "recipes": [
+        "Planet+Steam"
+      ]
+    },
+    "Steamroller": {
+      "emoji": "🚂",
+      "name": "Steamroller",
+      "recipes": [
+        "Engine+Stone"
+      ]
+    },
+    "Stone": {
+      "emoji": "🪨",
+      "name": "Stone",
+      "recipes": [
+        "Earth+Lava",
+        "Water+Lava",
+        "Lava+Wave",
+        "Lava+Seaweed"
+      ]
+    },
+    "Storm": {
+      "emoji": "⛈️",
+      "name": "Storm",
+      "recipes": [
+        "Wind+Wave",
+        "Planet+Wind",
+        "Cloud+Wind"
+      ]
+    },
+    "Submarine": {
+      "emoji": "🚤",
+      "name": "Submarine",
+      "recipes": [
+        "Seaweed+Engine"
+      ]
+    },
+    "Sun": {
+      "emoji": "☀️",
+      "name": "Sun",
+      "recipes": [
+        "Planet+Dandelion",
+        "Planet+Fire"
+      ]
+    },
+    "Surf": {
+      "emoji": "🏄",
+      "name": "Surf",
+      "recipes": [
+        "Smoke+Wave",
+        "Steam+Wave",
+        "Wave+Fog",
+        "Ash+Wave",
+        "Wave+Pollen",
+        "Seaweed+Wave"
+      ]
+    },
+    "Surfboard": {
+      "emoji": "🏄",
+      "name": "Surfboard",
+      "recipes": [
+        "Surf+Plant",
+        "Tree+Wave",
+        "Surf+Dandelion",
+        "Surf+Ash"
+      ]
+    },
+    "Surfer": {
+      "emoji": "🏄",
+      "name": "Surfer",
+      "recipes": [
+        "Seaweed+Surf",
+        "Smoke+Surf",
+        "Surf+Storm",
+        "Surf+Wave",
+        "Surf+Fog",
+        "Surf+Tsunami"
+      ]
+    },
+    "Surfing": {
+      "emoji": "🏄",
+      "name": "Surfing",
+      "recipes": [
+        "Planet+Surf",
+        "Volcano+Surf",
+        "Surf+Tea",
+        "Surf+Wind",
+        "Surf+Cloud",
+        "Lava+Surf",
+        "Surf+Steam"
+      ]
+    },
+    "Sushi": {
+      "emoji": "🍣",
+      "name": "Sushi",
+      "recipes": [
+        "Seaweed+Tea",
+        "Seaweed+Tsunami",
+        "Seaweed+Cloud",
+        "Seaweed+Fire",
+        "Seaweed+Steam",
+        "Seaweed+Swamp",
+        "Seaweed+Incense",
+        "Volcano+Seaweed",
+        "Seaweed+Smoke"
+      ]
+    },
+    "Swamp": {
+      "emoji": "🐊",
+      "name": "Swamp",
+      "recipes": [
+        "Plant+Water",
+        "Mud+Fog",
+        "Tree+Mud",
+        "Tsunami+Swamp",
+        "Mud+Plant",
+        "Smoke+Mud",
+        "Steam+Mud",
+        "Water+Mud"
+      ]
+    },
+    "Tea": {
+      "emoji": "🍵",
+      "name": "Tea",
+      "recipes": [
+        "Plant+Steam",
+        "Water+Tea",
+        "Steam+Dandelion",
+        "Tea+Fog",
+        "Tea+Plant"
+      ]
+    },
+    "Tea Bag": {
+      "emoji": "🍵",
+      "name": "Tea Bag",
+      "recipes": [
+        "Dust+Tea"
+      ]
+    },
+    "Teapot": {
+      "emoji": "🍵",
+      "name": "Teapot",
+      "recipes": [
+        "Earth+Tea",
+        "Engine+Tea",
+        "Tree+Tea",
+        "Steam+Tea"
+      ]
+    },
+    "Tempest": {
+      "emoji": "🌪️",
+      "name": "Tempest",
+      "recipes": [
+        "Tea+Storm"
+      ]
+    },
+    "Thunder": {
+      "emoji": "⛈️",
+      "name": "Thunder",
+      "recipes": [
+        "Smoke+Storm"
+      ]
+    },
+    "Titanic": {
+      "emoji": "🚢",
+      "name": "Titanic",
+      "recipes": [
+        "Steam+Tsunami"
+      ]
+    },
+    "Tobacco": {
+      "emoji": "🚬",
+      "name": "Tobacco",
+      "recipes": [
+        "Ash+Plant"
+      ]
+    },
+    "Tornado": {
+      "emoji": "🌪️",
+      "name": "Tornado",
+      "recipes": [
+        "Storm+Wind",
+        "Tsunami+Sandstorm",
+        "Dust+Storm",
+        "Engine+Storm",
+        "Tsunami+Storm",
+        "Dust+Sandstorm",
+        "Earth+Storm"
+      ]
+    },
+    "Tractor": {
+      "emoji": "🚜",
+      "name": "Tractor",
+      "recipes": [
+        "Engine+Earth",
+        "Engine+Mud"
+      ]
+    },
+    "Train": {
+      "emoji": "🚂",
+      "name": "Train",
+      "recipes": [
+        "Engine+Steam",
+        "Engine+Swamp"
+      ]
+    },
+    "Tree": {
+      "emoji": "🌳",
+      "name": "Tree",
+      "recipes": [
+        "Earth+Plant",
+        "Plant+Storm"
+      ]
+    },
+    "Tsunami": {
+      "emoji": "🌊",
+      "name": "Tsunami",
+      "recipes": [
+        "Water+Wave",
+        "Planet+Wave",
+        "Wave+Tsunami",
+        "Engine+Tsunami",
+        "Stone+Tsunami",
+        "Wave+Storm",
+        "Engine+Wave",
+        "Plant+Tsunami",
+        "Seaweed+Sandstorm",
+        "Wave+Tea",
+        "Seaweed+Storm",
+        "Wave+Sandstorm",
+        "Surf+Sandstorm",
+        "Wave+Swamp"
+      ]
+    },
+    "Vacuum": {
+      "emoji": "🧹",
+      "name": "Vacuum",
+      "recipes": [
+        "Dust+Engine"
+      ]
+    },
+    "Venus": {
+      "emoji": "♀️",
+      "name": "Venus",
+      "recipes": [
+        "Planet+Incense",
+        "Planet+Fog"
+      ]
+    },
+    "Venus Flytrap": {
+      "emoji": "🪲",
+      "name": "Venus Flytrap",
+      "recipes": [
+        "Plant+Swamp"
+      ]
+    },
+    "Volcano": {
+      "emoji": "🌋",
+      "name": "Volcano",
+      "recipes": [
+        "Smoke+Lava",
+        "Fire+Lava",
+        "Plant+Lava",
+        "Fire+Smoke",
+        "Earth+Smoke",
+        "Lava+Dust",
+        "Wind+Lava",
+        "Lava+Steam",
+        "Smoke+Tsunami",
+        "Lava+Storm",
+        "Ash+Tsunami",
+        "Lava+Tea",
+        "Lava+Ash",
+        "Cloud+Mud",
+        "Lava+Tsunami",
+        "Smoke+Planet",
+        "Lava+Cloud",
+        "Surf+Fire",
+        "Lava+Pollen",
+        "Lava+Sandstorm",
+        "Fire+Storm",
+        "Planet+Ash",
+        "Lava+Swamp",
+        "Lava+Fog",
+        "Lava+Incense",
+        "Fire+Sandstorm",
+        "Lava+Tree",
+        "Lava+Engine",
+        "Fire+Tsunami"
+      ]
+    },
+    "Water": {
+      "emoji": "💧",
+      "name": "Water",
+      "recipes": [
+        ""
+      ]
+    },
+    "Wave": {
+      "emoji": "🌊",
+      "name": "Wave",
+      "recipes": [
+        "Water+Wind",
+        "Engine+Surf",
+        "Surf+Incense",
+        "Water+Surf"
+      ]
+    },
+    "Weed": {
+      "emoji": "🌿",
+      "name": "Weed",
+      "recipes": [
+        "Plant+Dandelion"
+      ]
+    },
+    "Wind": {
+      "emoji": "🌬️",
+      "name": "Wind",
+      "recipes": [
+        ""
+      ]
+    },
+    "Windmill": {
+      "emoji": "🌬️",
+      "name": "Windmill",
+      "recipes": [
+        "Engine+Wind"
+      ]
+    },
+    "Wine": {
+      "emoji": "🍷",
+      "name": "Wine",
+      "recipes": [
+        "Tea+Dandelion",
+        "Water+Dandelion"
+      ]
+    },
+    "Wish": {
+      "emoji": "🌠",
+      "name": "Wish",
+      "recipes": [
+        "Ash+Dandelion",
+        "Incense+Dandelion",
+        "Tsunami+Dandelion",
+        "Stone+Dandelion",
+        "Tree+Dandelion",
+        "Dust+Dandelion"
+      ]
+    },
+    "Wood": {
+      "emoji": "🌲",
+      "name": "Wood",
+      "recipes": [
+        "Dust+Tree",
+        "Engine+Tree"
+      ]
+    }
+  },
+  "recipes": {
+    "Ash+Dandelion": {
+      "first": "Ash",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Ash+Fire": {
+      "first": "Ash",
+      "second": "Fire",
+      "result": "Phoenix"
+    },
+    "Ash+Fog": {
+      "first": "Ash",
+      "second": "Fog",
+      "result": "Smoke"
+    },
+    "Ash+Mud": {
+      "first": "Ash",
+      "second": "Mud",
+      "result": "Clay"
+    },
+    "Ash+Plant": {
+      "first": "Ash",
+      "second": "Plant",
+      "result": "Tobacco"
+    },
+    "Ash+Pollen": {
+      "first": "Ash",
+      "second": "Pollen",
+      "result": "Cough"
+    },
+    "Ash+Sand": {
+      "first": "Ash",
+      "second": "Sand",
+      "result": "Glass"
+    },
+    "Ash+Sandstorm": {
+      "first": "Ash",
+      "second": "Sandstorm",
+      "result": "Dust"
+    },
+    "Ash+Steam": {
+      "first": "Ash",
+      "second": "Steam",
+      "result": "Smoke"
+    },
+    "Ash+Stone": {
+      "first": "Ash",
+      "second": "Stone",
+      "result": "Statue"
+    },
+    "Ash+Storm": {
+      "first": "Ash",
+      "second": "Storm",
+      "result": "Dust"
+    },
+    "Ash+Swamp": {
+      "first": "Ash",
+      "second": "Swamp",
+      "result": "Mud"
+    },
+    "Ash+Tea": {
+      "first": "Ash",
+      "second": "Tea",
+      "result": "Matcha"
+    },
+    "Ash+Tsunami": {
+      "first": "Ash",
+      "second": "Tsunami",
+      "result": "Volcano"
+    },
+    "Ash+Wave": {
+      "first": "Ash",
+      "second": "Wave",
+      "result": "Surf"
+    },
+    "Ash+Wind": {
+      "first": "Ash",
+      "second": "Wind",
+      "result": "Dust"
+    },
+    "Cloud+Ash": {
+      "first": "Cloud",
+      "second": "Ash",
+      "result": "Smoke"
+    },
+    "Cloud+Dandelion": {
+      "first": "Cloud",
+      "second": "Dandelion",
+      "result": "Rain"
+    },
+    "Cloud+Fire": {
+      "first": "Cloud",
+      "second": "Fire",
+      "result": "Lightning"
+    },
+    "Cloud+Fog": {
+      "first": "Cloud",
+      "second": "Fog",
+      "result": "Rain"
+    },
+    "Cloud+Incense": {
+      "first": "Cloud",
+      "second": "Incense",
+      "result": "Smoke"
+    },
+    "Cloud+Mud": {
+      "first": "Cloud",
+      "second": "Mud",
+      "result": "Volcano"
+    },
+    "Cloud+Plant": {
+      "first": "Cloud",
+      "second": "Plant",
+      "result": "Rain"
+    },
+    "Cloud+Pollen": {
+      "first": "Cloud",
+      "second": "Pollen",
+      "result": "Rain"
+    },
+    "Cloud+Sand": {
+      "first": "Cloud",
+      "second": "Sand",
+      "result": "Rain"
+    },
+    "Cloud+Sandstorm": {
+      "first": "Cloud",
+      "second": "Sandstorm",
+      "result": "Dust"
+    },
+    "Cloud+Steam": {
+      "first": "Cloud",
+      "second": "Steam",
+      "result": "Rain"
+    },
+    "Cloud+Stone": {
+      "first": "Cloud",
+      "second": "Stone",
+      "result": "Rain"
+    },
+    "Cloud+Storm": {
+      "first": "Cloud",
+      "second": "Storm",
+      "result": "Rain"
+    },
+    "Cloud+Swamp": {
+      "first": "Cloud",
+      "second": "Swamp",
+      "result": "Fog"
+    },
+    "Cloud+Tea": {
+      "first": "Cloud",
+      "second": "Tea",
+      "result": "Rain"
+    },
+    "Cloud+Tsunami": {
+      "first": "Cloud",
+      "second": "Tsunami",
+      "result": "Rainbow"
+    },
+    "Cloud+Wave": {
+      "first": "Cloud",
+      "second": "Wave",
+      "result": "Rain"
+    },
+    "Cloud+Wind": {
+      "first": "Cloud",
+      "second": "Wind",
+      "result": "Storm"
+    },
+    "Dandelion+Fog": {
+      "first": "Dandelion",
+      "second": "Fog",
+      "result": "Fairy"
+    },
+    "Dandelion+Pollen": {
+      "first": "Dandelion",
+      "second": "Pollen",
+      "result": "Allergy"
+    },
+    "Dandelion+Sand": {
+      "first": "Dandelion",
+      "second": "Sand",
+      "result": "Sandcastle"
+    },
+    "Dandelion+Storm": {
+      "first": "Dandelion",
+      "second": "Storm",
+      "result": "Seed"
+    },
+    "Dandelion+Swamp": {
+      "first": "Dandelion",
+      "second": "Swamp",
+      "result": "Frog"
+    },
+    "Dandelion+Wind": {
+      "first": "Dandelion",
+      "second": "Wind",
+      "result": "Seed"
+    },
+    "Dust+Ash": {
+      "first": "Dust",
+      "second": "Ash",
+      "result": "Cinder"
+    },
+    "Dust+Cloud": {
+      "first": "Dust",
+      "second": "Cloud",
+      "result": "Rain"
+    },
+    "Dust+Dandelion": {
+      "first": "Dust",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Dust+Engine": {
+      "first": "Dust",
+      "second": "Engine",
+      "result": "Vacuum"
+    },
+    "Dust+Fog": {
+      "first": "Dust",
+      "second": "Fog",
+      "result": "Smog"
+    },
+    "Dust+Incense": {
+      "first": "Dust",
+      "second": "Incense",
+      "result": "Prayer"
+    },
+    "Dust+Mud": {
+      "first": "Dust",
+      "second": "Mud",
+      "result": "Clay"
+    },
+    "Dust+Planet": {
+      "first": "Dust",
+      "second": "Planet",
+      "result": "Earth"
+    },
+    "Dust+Pollen": {
+      "first": "Dust",
+      "second": "Pollen",
+      "result": "Allergy"
+    },
+    "Dust+Sand": {
+      "first": "Dust",
+      "second": "Sand",
+      "result": "Sandstorm"
+    },
+    "Dust+Sandstorm": {
+      "first": "Dust",
+      "second": "Sandstorm",
+      "result": "Tornado"
+    },
+    "Dust+Seaweed": {
+      "first": "Dust",
+      "second": "Seaweed",
+      "result": "Kelp"
+    },
+    "Dust+Steam": {
+      "first": "Dust",
+      "second": "Steam",
+      "result": "Cloud"
+    },
+    "Dust+Stone": {
+      "first": "Dust",
+      "second": "Stone",
+      "result": "Sand"
+    },
+    "Dust+Storm": {
+      "first": "Dust",
+      "second": "Storm",
+      "result": "Tornado"
+    },
+    "Dust+Surf": {
+      "first": "Dust",
+      "second": "Surf",
+      "result": "Sand"
+    },
+    "Dust+Swamp": {
+      "first": "Dust",
+      "second": "Swamp",
+      "result": "Mud"
+    },
+    "Dust+Tea": {
+      "first": "Dust",
+      "second": "Tea",
+      "result": "Tea Bag"
+    },
+    "Dust+Tree": {
+      "first": "Dust",
+      "second": "Tree",
+      "result": "Wood"
+    },
+    "Dust+Tsunami": {
+      "first": "Dust",
+      "second": "Tsunami",
+      "result": "Sand"
+    },
+    "Dust+Volcano": {
+      "first": "Dust",
+      "second": "Volcano",
+      "result": "Ash"
+    },
+    "Dust+Wave": {
+      "first": "Dust",
+      "second": "Wave",
+      "result": "Sand"
+    },
+    "Earth+Ash": {
+      "first": "Earth",
+      "second": "Ash",
+      "result": "Soil"
+    },
+    "Earth+Cloud": {
+      "first": "Earth",
+      "second": "Cloud",
+      "result": "Rain"
+    },
+    "Earth+Dandelion": {
+      "first": "Earth",
+      "second": "Dandelion",
+      "result": "Flower"
+    },
+    "Earth+Dust": {
+      "first": "Earth",
+      "second": "Dust",
+      "result": "Planet"
+    },
+    "Earth+Fire": {
+      "first": "Earth",
+      "second": "Fire",
+      "result": "Lava"
+    },
+    "Earth+Fog": {
+      "first": "Earth",
+      "second": "Fog",
+      "result": "Mist"
+    },
+    "Earth+Incense": {
+      "first": "Earth",
+      "second": "Incense",
+      "result": "Plant"
+    },
+    "Earth+Lava": {
+      "first": "Earth",
+      "second": "Lava",
+      "result": "Stone"
+    },
+    "Earth+Mud": {
+      "first": "Earth",
+      "second": "Mud",
+      "result": "Clay"
+    },
+    "Earth+Planet": {
+      "first": "Earth",
+      "second": "Planet",
+      "result": "Moon"
+    },
+    "Earth+Plant": {
+      "first": "Earth",
+      "second": "Plant",
+      "result": "Tree"
+    },
+    "Earth+Pollen": {
+      "first": "Earth",
+      "second": "Pollen",
+      "result": "Flower"
+    },
+    "Earth+Sand": {
+      "first": "Earth",
+      "second": "Sand",
+      "result": "Desert"
+    },
+    "Earth+Sandstorm": {
+      "first": "Earth",
+      "second": "Sandstorm",
+      "result": "Dune"
+    },
+    "Earth+Smoke": {
+      "first": "Earth",
+      "second": "Smoke",
+      "result": "Volcano"
+    },
+    "Earth+Steam": {
+      "first": "Earth",
+      "second": "Steam",
+      "result": "Mud"
+    },
+    "Earth+Stone": {
+      "first": "Earth",
+      "second": "Stone",
+      "result": "Rock"
+    },
+    "Earth+Storm": {
+      "first": "Earth",
+      "second": "Storm",
+      "result": "Tornado"
+    },
+    "Earth+Surf": {
+      "first": "Earth",
+      "second": "Surf",
+      "result": "Beach"
+    },
+    "Earth+Swamp": {
+      "first": "Earth",
+      "second": "Swamp",
+      "result": "Mud"
+    },
+    "Earth+Tea": {
+      "first": "Earth",
+      "second": "Tea",
+      "result": "Teapot"
+    },
+    "Earth+Tsunami": {
+      "first": "Earth",
+      "second": "Tsunami",
+      "result": "Island"
+    },
+    "Earth+Water": {
+      "first": "Earth",
+      "second": "Water",
+      "result": "Plant"
+    },
+    "Earth+Wave": {
+      "first": "Earth",
+      "second": "Wave",
+      "result": "Sand"
+    },
+    "Earth+Wind": {
+      "first": "Earth",
+      "second": "Wind",
+      "result": "Dust"
+    },
+    "Engine+Ash": {
+      "first": "Engine",
+      "second": "Ash",
+      "result": "Steam"
+    },
+    "Engine+Cloud": {
+      "first": "Engine",
+      "second": "Cloud",
+      "result": "Jet"
+    },
+    "Engine+Dandelion": {
+      "first": "Engine",
+      "second": "Dandelion",
+      "result": "Helicopter"
+    },
+    "Engine+Earth": {
+      "first": "Engine",
+      "second": "Earth",
+      "result": "Tractor"
+    },
+    "Engine+Fire": {
+      "first": "Engine",
+      "second": "Fire",
+      "result": "Steam"
+    },
+    "Engine+Fog": {
+      "first": "Engine",
+      "second": "Fog",
+      "result": "Steam"
+    },
+    "Engine+Incense": {
+      "first": "Engine",
+      "second": "Incense",
+      "result": "Steam"
+    },
+    "Engine+Mud": {
+      "first": "Engine",
+      "second": "Mud",
+      "result": "Tractor"
+    },
+    "Engine+Planet": {
+      "first": "Engine",
+      "second": "Planet",
+      "result": "Saturn"
+    },
+    "Engine+Plant": {
+      "first": "Engine",
+      "second": "Plant",
+      "result": "Car"
+    },
+    "Engine+Pollen": {
+      "first": "Engine",
+      "second": "Pollen",
+      "result": "Bee"
+    },
+    "Engine+Sand": {
+      "first": "Engine",
+      "second": "Sand",
+      "result": "Sandbox"
+    },
+    "Engine+Sandstorm": {
+      "first": "Engine",
+      "second": "Sandstorm",
+      "result": "Sand"
+    },
+    "Engine+Smoke": {
+      "first": "Engine",
+      "second": "Smoke",
+      "result": "Steam"
+    },
+    "Engine+Steam": {
+      "first": "Engine",
+      "second": "Steam",
+      "result": "Train"
+    },
+    "Engine+Stone": {
+      "first": "Engine",
+      "second": "Stone",
+      "result": "Steamroller"
+    },
+    "Engine+Storm": {
+      "first": "Engine",
+      "second": "Storm",
+      "result": "Tornado"
+    },
+    "Engine+Surf": {
+      "first": "Engine",
+      "second": "Surf",
+      "result": "Wave"
+    },
+    "Engine+Swamp": {
+      "first": "Engine",
+      "second": "Swamp",
+      "result": "Train"
+    },
+    "Engine+Tea": {
+      "first": "Engine",
+      "second": "Tea",
+      "result": "Teapot"
+    },
+    "Engine+Tree": {
+      "first": "Engine",
+      "second": "Tree",
+      "result": "Wood"
+    },
+    "Engine+Tsunami": {
+      "first": "Engine",
+      "second": "Tsunami",
+      "result": "Tsunami"
+    },
+    "Engine+Wave": {
+      "first": "Engine",
+      "second": "Wave",
+      "result": "Tsunami"
+    },
+    "Engine+Wind": {
+      "first": "Engine",
+      "second": "Wind",
+      "result": "Windmill"
+    },
+    "Fire+Dandelion": {
+      "first": "Fire",
+      "second": "Dandelion",
+      "result": "Ash"
+    },
+    "Fire+Dust": {
+      "first": "Fire",
+      "second": "Dust",
+      "result": "Ash"
+    },
+    "Fire+Fog": {
+      "first": "Fire",
+      "second": "Fog",
+      "result": "Smoke"
+    },
+    "Fire+Lava": {
+      "first": "Fire",
+      "second": "Lava",
+      "result": "Volcano"
+    },
+    "Fire+Plant": {
+      "first": "Fire",
+      "second": "Plant",
+      "result": "Smoke"
+    },
+    "Fire+Pollen": {
+      "first": "Fire",
+      "second": "Pollen",
+      "result": "Smoke"
+    },
+    "Fire+Sand": {
+      "first": "Fire",
+      "second": "Sand",
+      "result": "Glass"
+    },
+    "Fire+Sandstorm": {
+      "first": "Fire",
+      "second": "Sandstorm",
+      "result": "Volcano"
+    },
+    "Fire+Smoke": {
+      "first": "Fire",
+      "second": "Smoke",
+      "result": "Volcano"
+    },
+    "Fire+Steam": {
+      "first": "Fire",
+      "second": "Steam",
+      "result": "Engine"
+    },
+    "Fire+Storm": {
+      "first": "Fire",
+      "second": "Storm",
+      "result": "Volcano"
+    },
+    "Fire+Swamp": {
+      "first": "Fire",
+      "second": "Swamp",
+      "result": "Dragon"
+    },
+    "Fire+Tsunami": {
+      "first": "Fire",
+      "second": "Tsunami",
+      "result": "Volcano"
+    },
+    "Fire+Wave": {
+      "first": "Fire",
+      "second": "Wave",
+      "result": "Steam"
+    },
+    "Fire+Wind": {
+      "first": "Fire",
+      "second": "Wind",
+      "result": "Smoke"
+    },
+    "Fog+Swamp": {
+      "first": "Fog",
+      "second": "Swamp",
+      "result": "Ghost"
+    },
+    "Incense+Ash": {
+      "first": "Incense",
+      "second": "Ash",
+      "result": "Smoke"
+    },
+    "Incense+Dandelion": {
+      "first": "Incense",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Incense+Fire": {
+      "first": "Incense",
+      "second": "Fire",
+      "result": "Smoke"
+    },
+    "Incense+Fog": {
+      "first": "Incense",
+      "second": "Fog",
+      "result": "Smoke"
+    },
+    "Incense+Mud": {
+      "first": "Incense",
+      "second": "Mud",
+      "result": "Perfume"
+    },
+    "Incense+Plant": {
+      "first": "Incense",
+      "second": "Plant",
+      "result": "Smoke"
+    },
+    "Incense+Pollen": {
+      "first": "Incense",
+      "second": "Pollen",
+      "result": "Perfume"
+    },
+    "Incense+Sand": {
+      "first": "Incense",
+      "second": "Sand",
+      "result": "Snake"
+    },
+    "Incense+Sandstorm": {
+      "first": "Incense",
+      "second": "Sandstorm",
+      "result": "Genie"
+    },
+    "Incense+Steam": {
+      "first": "Incense",
+      "second": "Steam",
+      "result": "Smoke"
+    },
+    "Incense+Stone": {
+      "first": "Incense",
+      "second": "Stone",
+      "result": "Buddha"
+    },
+    "Incense+Storm": {
+      "first": "Incense",
+      "second": "Storm",
+      "result": "Rain"
+    },
+    "Incense+Swamp": {
+      "first": "Incense",
+      "second": "Swamp",
+      "result": "Mosquito"
+    },
+    "Incense+Tea": {
+      "first": "Incense",
+      "second": "Tea",
+      "result": "Smoke"
+    },
+    "Incense+Tsunami": {
+      "first": "Incense",
+      "second": "Tsunami",
+      "result": "Poseidon"
+    },
+    "Incense+Wave": {
+      "first": "Incense",
+      "second": "Wave",
+      "result": "Smoke"
+    },
+    "Incense+Wind": {
+      "first": "Incense",
+      "second": "Wind",
+      "result": "Smoke"
+    },
+    "Lava+Ash": {
+      "first": "Lava",
+      "second": "Ash",
+      "result": "Volcano"
+    },
+    "Lava+Cloud": {
+      "first": "Lava",
+      "second": "Cloud",
+      "result": "Volcano"
+    },
+    "Lava+Dandelion": {
+      "first": "Lava",
+      "second": "Dandelion",
+      "result": "Fire"
+    },
+    "Lava+Dust": {
+      "first": "Lava",
+      "second": "Dust",
+      "result": "Volcano"
+    },
+    "Lava+Engine": {
+      "first": "Lava",
+      "second": "Engine",
+      "result": "Volcano"
+    },
+    "Lava+Fog": {
+      "first": "Lava",
+      "second": "Fog",
+      "result": "Volcano"
+    },
+    "Lava+Incense": {
+      "first": "Lava",
+      "second": "Incense",
+      "result": "Volcano"
+    },
+    "Lava+Mud": {
+      "first": "Lava",
+      "second": "Mud",
+      "result": "Clay"
+    },
+    "Lava+Planet": {
+      "first": "Lava",
+      "second": "Planet",
+      "result": "Earth"
+    },
+    "Lava+Pollen": {
+      "first": "Lava",
+      "second": "Pollen",
+      "result": "Volcano"
+    },
+    "Lava+Sand": {
+      "first": "Lava",
+      "second": "Sand",
+      "result": "Glass"
+    },
+    "Lava+Sandstorm": {
+      "first": "Lava",
+      "second": "Sandstorm",
+      "result": "Volcano"
+    },
+    "Lava+Seaweed": {
+      "first": "Lava",
+      "second": "Seaweed",
+      "result": "Stone"
+    },
+    "Lava+Steam": {
+      "first": "Lava",
+      "second": "Steam",
+      "result": "Volcano"
+    },
+    "Lava+Stone": {
+      "first": "Lava",
+      "second": "Stone",
+      "result": "Obsidian"
+    },
+    "Lava+Storm": {
+      "first": "Lava",
+      "second": "Storm",
+      "result": "Volcano"
+    },
+    "Lava+Surf": {
+      "first": "Lava",
+      "second": "Surf",
+      "result": "Surfing"
+    },
+    "Lava+Swamp": {
+      "first": "Lava",
+      "second": "Swamp",
+      "result": "Volcano"
+    },
+    "Lava+Tea": {
+      "first": "Lava",
+      "second": "Tea",
+      "result": "Volcano"
+    },
+    "Lava+Tree": {
+      "first": "Lava",
+      "second": "Tree",
+      "result": "Volcano"
+    },
+    "Lava+Tsunami": {
+      "first": "Lava",
+      "second": "Tsunami",
+      "result": "Volcano"
+    },
+    "Lava+Volcano": {
+      "first": "Lava",
+      "second": "Volcano",
+      "result": "Eruption"
+    },
+    "Lava+Wave": {
+      "first": "Lava",
+      "second": "Wave",
+      "result": "Stone"
+    },
+    "Mud+Dandelion": {
+      "first": "Mud",
+      "second": "Dandelion",
+      "result": "Puddle"
+    },
+    "Mud+Fire": {
+      "first": "Mud",
+      "second": "Fire",
+      "result": "Brick"
+    },
+    "Mud+Fog": {
+      "first": "Mud",
+      "second": "Fog",
+      "result": "Swamp"
+    },
+    "Mud+Plant": {
+      "first": "Mud",
+      "second": "Plant",
+      "result": "Swamp"
+    },
+    "Mud+Pollen": {
+      "first": "Mud",
+      "second": "Pollen",
+      "result": "Lotus"
+    },
+    "Mud+Sand": {
+      "first": "Mud",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Mud+Sandstorm": {
+      "first": "Mud",
+      "second": "Sandstorm",
+      "result": "Dust"
+    },
+    "Mud+Stone": {
+      "first": "Mud",
+      "second": "Stone",
+      "result": "Clay"
+    },
+    "Mud+Storm": {
+      "first": "Mud",
+      "second": "Storm",
+      "result": "Mudslide"
+    },
+    "Mud+Swamp": {
+      "first": "Mud",
+      "second": "Swamp",
+      "result": "Quagmire"
+    },
+    "Mud+Tea": {
+      "first": "Mud",
+      "second": "Tea",
+      "result": "Nothing"
+    },
+    "Mud+Tsunami": {
+      "first": "Mud",
+      "second": "Tsunami",
+      "result": "Mudslide"
+    },
+    "Mud+Wind": {
+      "first": "Mud",
+      "second": "Wind",
+      "result": "Dust"
+    },
+    "Planet+Ash": {
+      "first": "Planet",
+      "second": "Ash",
+      "result": "Volcano"
+    },
+    "Planet+Cloud": {
+      "first": "Planet",
+      "second": "Cloud",
+      "result": "Sky"
+    },
+    "Planet+Dandelion": {
+      "first": "Planet",
+      "second": "Dandelion",
+      "result": "Sun"
+    },
+    "Planet+Fire": {
+      "first": "Planet",
+      "second": "Fire",
+      "result": "Sun"
+    },
+    "Planet+Fog": {
+      "first": "Planet",
+      "second": "Fog",
+      "result": "Venus"
+    },
+    "Planet+Incense": {
+      "first": "Planet",
+      "second": "Incense",
+      "result": "Venus"
+    },
+    "Planet+Mud": {
+      "first": "Planet",
+      "second": "Mud",
+      "result": "Earth"
+    },
+    "Planet+Plant": {
+      "first": "Planet",
+      "second": "Plant",
+      "result": "Earth"
+    },
+    "Planet+Pollen": {
+      "first": "Planet",
+      "second": "Pollen",
+      "result": "Bee"
+    },
+    "Planet+Sand": {
+      "first": "Planet",
+      "second": "Sand",
+      "result": "Desert"
+    },
+    "Planet+Sandstorm": {
+      "first": "Planet",
+      "second": "Sandstorm",
+      "result": "Mars"
+    },
+    "Planet+Steam": {
+      "first": "Planet",
+      "second": "Steam",
+      "result": "Steampunk"
+    },
+    "Planet+Stone": {
+      "first": "Planet",
+      "second": "Stone",
+      "result": "Meteor"
+    },
+    "Planet+Storm": {
+      "first": "Planet",
+      "second": "Storm",
+      "result": "Hurricane"
+    },
+    "Planet+Surf": {
+      "first": "Planet",
+      "second": "Surf",
+      "result": "Surfing"
+    },
+    "Planet+Swamp": {
+      "first": "Planet",
+      "second": "Swamp",
+      "result": "Earth"
+    },
+    "Planet+Tea": {
+      "first": "Planet",
+      "second": "Tea",
+      "result": "Plantea"
+    },
+    "Planet+Tsunami": {
+      "first": "Planet",
+      "second": "Tsunami",
+      "result": "Earthquake"
+    },
+    "Planet+Wave": {
+      "first": "Planet",
+      "second": "Wave",
+      "result": "Tsunami"
+    },
+    "Planet+Wind": {
+      "first": "Planet",
+      "second": "Wind",
+      "result": "Storm"
+    },
+    "Plant+Dandelion": {
+      "first": "Plant",
+      "second": "Dandelion",
+      "result": "Weed"
+    },
+    "Plant+Dust": {
+      "first": "Plant",
+      "second": "Dust",
+      "result": "Pollen"
+    },
+    "Plant+Fog": {
+      "first": "Plant",
+      "second": "Fog",
+      "result": "Mushroom"
+    },
+    "Plant+Lava": {
+      "first": "Plant",
+      "second": "Lava",
+      "result": "Volcano"
+    },
+    "Plant+Pollen": {
+      "first": "Plant",
+      "second": "Pollen",
+      "result": "Flower"
+    },
+    "Plant+Sand": {
+      "first": "Plant",
+      "second": "Sand",
+      "result": "Cactus"
+    },
+    "Plant+Sandstorm": {
+      "first": "Plant",
+      "second": "Sandstorm",
+      "result": "Cactus"
+    },
+    "Plant+Steam": {
+      "first": "Plant",
+      "second": "Steam",
+      "result": "Tea"
+    },
+    "Plant+Storm": {
+      "first": "Plant",
+      "second": "Storm",
+      "result": "Tree"
+    },
+    "Plant+Swamp": {
+      "first": "Plant",
+      "second": "Swamp",
+      "result": "Venus Flytrap"
+    },
+    "Plant+Tsunami": {
+      "first": "Plant",
+      "second": "Tsunami",
+      "result": "Tsunami"
+    },
+    "Plant+Water": {
+      "first": "Plant",
+      "second": "Water",
+      "result": "Swamp"
+    },
+    "Plant+Wave": {
+      "first": "Plant",
+      "second": "Wave",
+      "result": "Seaweed"
+    },
+    "Pollen+Fog": {
+      "first": "Pollen",
+      "second": "Fog",
+      "result": "Allergy"
+    },
+    "Pollen+Sand": {
+      "first": "Pollen",
+      "second": "Sand",
+      "result": "Dust"
+    },
+    "Pollen+Swamp": {
+      "first": "Pollen",
+      "second": "Swamp",
+      "result": "Allergy"
+    },
+    "Sand+Fog": {
+      "first": "Sand",
+      "second": "Fog",
+      "result": "Desert"
+    },
+    "Sand+Swamp": {
+      "first": "Sand",
+      "second": "Swamp",
+      "result": "Desert"
+    },
+    "Sandstorm+Dandelion": {
+      "first": "Sandstorm",
+      "second": "Dandelion",
+      "result": "Dust"
+    },
+    "Sandstorm+Fog": {
+      "first": "Sandstorm",
+      "second": "Fog",
+      "result": "Dust Storm"
+    },
+    "Sandstorm+Pollen": {
+      "first": "Sandstorm",
+      "second": "Pollen",
+      "result": "Dust"
+    },
+    "Sandstorm+Sand": {
+      "first": "Sandstorm",
+      "second": "Sand",
+      "result": "Desert"
+    },
+    "Sandstorm+Storm": {
+      "first": "Sandstorm",
+      "second": "Storm",
+      "result": "Dust Storm"
+    },
+    "Sandstorm+Swamp": {
+      "first": "Sandstorm",
+      "second": "Swamp",
+      "result": "Oasis"
+    },
+    "Sandstorm+Wind": {
+      "first": "Sandstorm",
+      "second": "Wind",
+      "result": "Dust Storm"
+    },
+    "Seaweed+Ash": {
+      "first": "Seaweed",
+      "second": "Ash",
+      "result": "Kelp"
+    },
+    "Seaweed+Cloud": {
+      "first": "Seaweed",
+      "second": "Cloud",
+      "result": "Sushi"
+    },
+    "Seaweed+Dandelion": {
+      "first": "Seaweed",
+      "second": "Dandelion",
+      "result": "Kelp"
+    },
+    "Seaweed+Earth": {
+      "first": "Seaweed",
+      "second": "Earth",
+      "result": "Kelp"
+    },
+    "Seaweed+Engine": {
+      "first": "Seaweed",
+      "second": "Engine",
+      "result": "Submarine"
+    },
+    "Seaweed+Fire": {
+      "first": "Seaweed",
+      "second": "Fire",
+      "result": "Sushi"
+    },
+    "Seaweed+Fog": {
+      "first": "Seaweed",
+      "second": "Fog",
+      "result": "Kelp"
+    },
+    "Seaweed+Incense": {
+      "first": "Seaweed",
+      "second": "Incense",
+      "result": "Sushi"
+    },
+    "Seaweed+Mud": {
+      "first": "Seaweed",
+      "second": "Mud",
+      "result": "Mudweed"
+    },
+    "Seaweed+Planet": {
+      "first": "Seaweed",
+      "second": "Planet",
+      "result": "Earth"
+    },
+    "Seaweed+Plant": {
+      "first": "Seaweed",
+      "second": "Plant",
+      "result": "Kelp"
+    },
+    "Seaweed+Pollen": {
+      "first": "Seaweed",
+      "second": "Pollen",
+      "result": "Kelp"
+    },
+    "Seaweed+Sand": {
+      "first": "Seaweed",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Seaweed+Sandstorm": {
+      "first": "Seaweed",
+      "second": "Sandstorm",
+      "result": "Tsunami"
+    },
+    "Seaweed+Smoke": {
+      "first": "Seaweed",
+      "second": "Smoke",
+      "result": "Sushi"
+    },
+    "Seaweed+Steam": {
+      "first": "Seaweed",
+      "second": "Steam",
+      "result": "Sushi"
+    },
+    "Seaweed+Stone": {
+      "first": "Seaweed",
+      "second": "Stone",
+      "result": "Coral"
+    },
+    "Seaweed+Storm": {
+      "first": "Seaweed",
+      "second": "Storm",
+      "result": "Tsunami"
+    },
+    "Seaweed+Surf": {
+      "first": "Seaweed",
+      "second": "Surf",
+      "result": "Surfer"
+    },
+    "Seaweed+Swamp": {
+      "first": "Seaweed",
+      "second": "Swamp",
+      "result": "Sushi"
+    },
+    "Seaweed+Tea": {
+      "first": "Seaweed",
+      "second": "Tea",
+      "result": "Sushi"
+    },
+    "Seaweed+Tree": {
+      "first": "Seaweed",
+      "second": "Tree",
+      "result": "Kelp"
+    },
+    "Seaweed+Tsunami": {
+      "first": "Seaweed",
+      "second": "Tsunami",
+      "result": "Sushi"
+    },
+    "Seaweed+Wave": {
+      "first": "Seaweed",
+      "second": "Wave",
+      "result": "Surf"
+    },
+    "Seaweed+Wind": {
+      "first": "Seaweed",
+      "second": "Wind",
+      "result": "Kite"
+    },
+    "Smoke+Ash": {
+      "first": "Smoke",
+      "second": "Ash",
+      "result": "Fire"
+    },
+    "Smoke+Cloud": {
+      "first": "Smoke",
+      "second": "Cloud",
+      "result": "Fog"
+    },
+    "Smoke+Dandelion": {
+      "first": "Smoke",
+      "second": "Dandelion",
+      "result": "Fire"
+    },
+    "Smoke+Dust": {
+      "first": "Smoke",
+      "second": "Dust",
+      "result": "Dust"
+    },
+    "Smoke+Fog": {
+      "first": "Smoke",
+      "second": "Fog",
+      "result": "Cloud"
+    },
+    "Smoke+Incense": {
+      "first": "Smoke",
+      "second": "Incense",
+      "result": "Prayer"
+    },
+    "Smoke+Lava": {
+      "first": "Smoke",
+      "second": "Lava",
+      "result": "Volcano"
+    },
+    "Smoke+Mud": {
+      "first": "Smoke",
+      "second": "Mud",
+      "result": "Swamp"
+    },
+    "Smoke+Planet": {
+      "first": "Smoke",
+      "second": "Planet",
+      "result": "Volcano"
+    },
+    "Smoke+Plant": {
+      "first": "Smoke",
+      "second": "Plant",
+      "result": "Incense"
+    },
+    "Smoke+Pollen": {
+      "first": "Smoke",
+      "second": "Pollen",
+      "result": "Bee"
+    },
+    "Smoke+Sand": {
+      "first": "Smoke",
+      "second": "Sand",
+      "result": "Desert"
+    },
+    "Smoke+Sandstorm": {
+      "first": "Smoke",
+      "second": "Sandstorm",
+      "result": "Dust"
+    },
+    "Smoke+Steam": {
+      "first": "Smoke",
+      "second": "Steam",
+      "result": "Cloud"
+    },
+    "Smoke+Stone": {
+      "first": "Smoke",
+      "second": "Stone",
+      "result": "Statue"
+    },
+    "Smoke+Storm": {
+      "first": "Smoke",
+      "second": "Storm",
+      "result": "Thunder"
+    },
+    "Smoke+Surf": {
+      "first": "Smoke",
+      "second": "Surf",
+      "result": "Surfer"
+    },
+    "Smoke+Swamp": {
+      "first": "Smoke",
+      "second": "Swamp",
+      "result": "Dragon"
+    },
+    "Smoke+Tea": {
+      "first": "Smoke",
+      "second": "Tea",
+      "result": "Nothing"
+    },
+    "Smoke+Tsunami": {
+      "first": "Smoke",
+      "second": "Tsunami",
+      "result": "Volcano"
+    },
+    "Smoke+Water": {
+      "first": "Smoke",
+      "second": "Water",
+      "result": "Fog"
+    },
+    "Smoke+Wave": {
+      "first": "Smoke",
+      "second": "Wave",
+      "result": "Surf"
+    },
+    "Steam+Dandelion": {
+      "first": "Steam",
+      "second": "Dandelion",
+      "result": "Tea"
+    },
+    "Steam+Fog": {
+      "first": "Steam",
+      "second": "Fog",
+      "result": "Cloud"
+    },
+    "Steam+Mud": {
+      "first": "Steam",
+      "second": "Mud",
+      "result": "Swamp"
+    },
+    "Steam+Pollen": {
+      "first": "Steam",
+      "second": "Pollen",
+      "result": "Flower"
+    },
+    "Steam+Sand": {
+      "first": "Steam",
+      "second": "Sand",
+      "result": "Glass"
+    },
+    "Steam+Sandstorm": {
+      "first": "Steam",
+      "second": "Sandstorm",
+      "result": "Sand"
+    },
+    "Steam+Stone": {
+      "first": "Steam",
+      "second": "Stone",
+      "result": "Geysir"
+    },
+    "Steam+Storm": {
+      "first": "Steam",
+      "second": "Storm",
+      "result": "Rain"
+    },
+    "Steam+Swamp": {
+      "first": "Steam",
+      "second": "Swamp",
+      "result": "Dragon"
+    },
+    "Steam+Tea": {
+      "first": "Steam",
+      "second": "Tea",
+      "result": "Teapot"
+    },
+    "Steam+Tsunami": {
+      "first": "Steam",
+      "second": "Tsunami",
+      "result": "Titanic"
+    },
+    "Steam+Wave": {
+      "first": "Steam",
+      "second": "Wave",
+      "result": "Surf"
+    },
+    "Stone+Dandelion": {
+      "first": "Stone",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Stone+Fire": {
+      "first": "Stone",
+      "second": "Fire",
+      "result": "Lava"
+    },
+    "Stone+Fog": {
+      "first": "Stone",
+      "second": "Fog",
+      "result": "Statue"
+    },
+    "Stone+Plant": {
+      "first": "Stone",
+      "second": "Plant",
+      "result": "Fossil"
+    },
+    "Stone+Pollen": {
+      "first": "Stone",
+      "second": "Pollen",
+      "result": "Amber"
+    },
+    "Stone+Sand": {
+      "first": "Stone",
+      "second": "Sand",
+      "result": "Pyramid"
+    },
+    "Stone+Sandstorm": {
+      "first": "Stone",
+      "second": "Sandstorm",
+      "result": "Sphinx"
+    },
+    "Stone+Storm": {
+      "first": "Stone",
+      "second": "Storm",
+      "result": "Meteor"
+    },
+    "Stone+Swamp": {
+      "first": "Stone",
+      "second": "Swamp",
+      "result": "Statue"
+    },
+    "Stone+Tea": {
+      "first": "Stone",
+      "second": "Tea",
+      "result": "Rock"
+    },
+    "Stone+Tsunami": {
+      "first": "Stone",
+      "second": "Tsunami",
+      "result": "Tsunami"
+    },
+    "Stone+Wind": {
+      "first": "Stone",
+      "second": "Wind",
+      "result": "Sand"
+    },
+    "Storm+Fog": {
+      "first": "Storm",
+      "second": "Fog",
+      "result": "Rain"
+    },
+    "Storm+Pollen": {
+      "first": "Storm",
+      "second": "Pollen",
+      "result": "Allergy"
+    },
+    "Storm+Sand": {
+      "first": "Storm",
+      "second": "Sand",
+      "result": "Dune"
+    },
+    "Storm+Swamp": {
+      "first": "Storm",
+      "second": "Swamp",
+      "result": "Bog"
+    },
+    "Storm+Wind": {
+      "first": "Storm",
+      "second": "Wind",
+      "result": "Tornado"
+    },
+    "Surf+Ash": {
+      "first": "Surf",
+      "second": "Ash",
+      "result": "Surfboard"
+    },
+    "Surf+Cloud": {
+      "first": "Surf",
+      "second": "Cloud",
+      "result": "Surfing"
+    },
+    "Surf+Dandelion": {
+      "first": "Surf",
+      "second": "Dandelion",
+      "result": "Surfboard"
+    },
+    "Surf+Fire": {
+      "first": "Surf",
+      "second": "Fire",
+      "result": "Volcano"
+    },
+    "Surf+Fog": {
+      "first": "Surf",
+      "second": "Fog",
+      "result": "Surfer"
+    },
+    "Surf+Incense": {
+      "first": "Surf",
+      "second": "Incense",
+      "result": "Wave"
+    },
+    "Surf+Mud": {
+      "first": "Surf",
+      "second": "Mud",
+      "result": "Beach"
+    },
+    "Surf+Plant": {
+      "first": "Surf",
+      "second": "Plant",
+      "result": "Surfboard"
+    },
+    "Surf+Pollen": {
+      "first": "Surf",
+      "second": "Pollen",
+      "result": "Allergy"
+    },
+    "Surf+Sand": {
+      "first": "Surf",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Surf+Sandstorm": {
+      "first": "Surf",
+      "second": "Sandstorm",
+      "result": "Tsunami"
+    },
+    "Surf+Steam": {
+      "first": "Surf",
+      "second": "Steam",
+      "result": "Surfing"
+    },
+    "Surf+Stone": {
+      "first": "Surf",
+      "second": "Stone",
+      "result": "Rock"
+    },
+    "Surf+Storm": {
+      "first": "Surf",
+      "second": "Storm",
+      "result": "Surfer"
+    },
+    "Surf+Swamp": {
+      "first": "Surf",
+      "second": "Swamp",
+      "result": "Lagoon"
+    },
+    "Surf+Tea": {
+      "first": "Surf",
+      "second": "Tea",
+      "result": "Surfing"
+    },
+    "Surf+Tsunami": {
+      "first": "Surf",
+      "second": "Tsunami",
+      "result": "Surfer"
+    },
+    "Surf+Wave": {
+      "first": "Surf",
+      "second": "Wave",
+      "result": "Surfer"
+    },
+    "Surf+Wind": {
+      "first": "Surf",
+      "second": "Wind",
+      "result": "Surfing"
+    },
+    "Tea+Dandelion": {
+      "first": "Tea",
+      "second": "Dandelion",
+      "result": "Wine"
+    },
+    "Tea+Fire": {
+      "first": "Tea",
+      "second": "Fire",
+      "result": "Chai"
+    },
+    "Tea+Fog": {
+      "first": "Tea",
+      "second": "Fog",
+      "result": "Tea"
+    },
+    "Tea+Plant": {
+      "first": "Tea",
+      "second": "Plant",
+      "result": "Tea"
+    },
+    "Tea+Pollen": {
+      "first": "Tea",
+      "second": "Pollen",
+      "result": "Honey"
+    },
+    "Tea+Sand": {
+      "first": "Tea",
+      "second": "Sand",
+      "result": "Sandwich"
+    },
+    "Tea+Sandstorm": {
+      "first": "Tea",
+      "second": "Sandstorm",
+      "result": "Dust"
+    },
+    "Tea+Storm": {
+      "first": "Tea",
+      "second": "Storm",
+      "result": "Tempest"
+    },
+    "Tea+Swamp": {
+      "first": "Tea",
+      "second": "Swamp",
+      "result": "Nothing"
+    },
+    "Tea+Tsunami": {
+      "first": "Tea",
+      "second": "Tsunami",
+      "result": "Nothing"
+    },
+    "Tea+Wind": {
+      "first": "Tea",
+      "second": "Wind",
+      "result": "Kite"
+    },
+    "Tree+Ash": {
+      "first": "Tree",
+      "second": "Ash",
+      "result": "Pencil"
+    },
+    "Tree+Cloud": {
+      "first": "Tree",
+      "second": "Cloud",
+      "result": "Rain"
+    },
+    "Tree+Dandelion": {
+      "first": "Tree",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Tree+Earth": {
+      "first": "Tree",
+      "second": "Earth",
+      "result": "Forest"
+    },
+    "Tree+Fire": {
+      "first": "Tree",
+      "second": "Fire",
+      "result": "Ash"
+    },
+    "Tree+Fog": {
+      "first": "Tree",
+      "second": "Fog",
+      "result": "Ghost"
+    },
+    "Tree+Incense": {
+      "first": "Tree",
+      "second": "Incense",
+      "result": "Poseidon"
+    },
+    "Tree+Mud": {
+      "first": "Tree",
+      "second": "Mud",
+      "result": "Swamp"
+    },
+    "Tree+Planet": {
+      "first": "Tree",
+      "second": "Planet",
+      "result": "Earth"
+    },
+    "Tree+Plant": {
+      "first": "Tree",
+      "second": "Plant",
+      "result": "Forest"
+    },
+    "Tree+Pollen": {
+      "first": "Tree",
+      "second": "Pollen",
+      "result": "Bee"
+    },
+    "Tree+Sand": {
+      "first": "Tree",
+      "second": "Sand",
+      "result": "Desert"
+    },
+    "Tree+Sandstorm": {
+      "first": "Tree",
+      "second": "Sandstorm",
+      "result": "Palm Tree"
+    },
+    "Tree+Smoke": {
+      "first": "Tree",
+      "second": "Smoke",
+      "result": "Fire"
+    },
+    "Tree+Steam": {
+      "first": "Tree",
+      "second": "Steam",
+      "result": "Cloud"
+    },
+    "Tree+Stone": {
+      "first": "Tree",
+      "second": "Stone",
+      "result": "Rock"
+    },
+    "Tree+Storm": {
+      "first": "Tree",
+      "second": "Storm",
+      "result": "Lightning"
+    },
+    "Tree+Surf": {
+      "first": "Tree",
+      "second": "Surf",
+      "result": "Palm"
+    },
+    "Tree+Swamp": {
+      "first": "Tree",
+      "second": "Swamp",
+      "result": "Mangrove"
+    },
+    "Tree+Tea": {
+      "first": "Tree",
+      "second": "Tea",
+      "result": "Teapot"
+    },
+    "Tree+Tsunami": {
+      "first": "Tree",
+      "second": "Tsunami",
+      "result": "Forest"
+    },
+    "Tree+Wave": {
+      "first": "Tree",
+      "second": "Wave",
+      "result": "Surfboard"
+    },
+    "Tree+Wind": {
+      "first": "Tree",
+      "second": "Wind",
+      "result": "Leaf"
+    },
+    "Tsunami+Dandelion": {
+      "first": "Tsunami",
+      "second": "Dandelion",
+      "result": "Wish"
+    },
+    "Tsunami+Fog": {
+      "first": "Tsunami",
+      "second": "Fog",
+      "result": "Mist"
+    },
+    "Tsunami+Pollen": {
+      "first": "Tsunami",
+      "second": "Pollen",
+      "result": "Honey"
+    },
+    "Tsunami+Sand": {
+      "first": "Tsunami",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Tsunami+Sandstorm": {
+      "first": "Tsunami",
+      "second": "Sandstorm",
+      "result": "Tornado"
+    },
+    "Tsunami+Storm": {
+      "first": "Tsunami",
+      "second": "Storm",
+      "result": "Tornado"
+    },
+    "Tsunami+Swamp": {
+      "first": "Tsunami",
+      "second": "Swamp",
+      "result": "Swamp"
+    },
+    "Tsunami+Wind": {
+      "first": "Tsunami",
+      "second": "Wind",
+      "result": "Hurricane"
+    },
+    "Volcano+Ash": {
+      "first": "Volcano",
+      "second": "Ash",
+      "result": "Lava"
+    },
+    "Volcano+Cloud": {
+      "first": "Volcano",
+      "second": "Cloud",
+      "result": "Rain"
+    },
+    "Volcano+Dandelion": {
+      "first": "Volcano",
+      "second": "Dandelion",
+      "result": "Fireworks"
+    },
+    "Volcano+Earth": {
+      "first": "Volcano",
+      "second": "Earth",
+      "result": "Lava"
+    },
+    "Volcano+Engine": {
+      "first": "Volcano",
+      "second": "Engine",
+      "result": "Steam"
+    },
+    "Volcano+Fire": {
+      "first": "Volcano",
+      "second": "Fire",
+      "result": "Lava"
+    },
+    "Volcano+Fog": {
+      "first": "Volcano",
+      "second": "Fog",
+      "result": "Eruption"
+    },
+    "Volcano+Incense": {
+      "first": "Volcano",
+      "second": "Incense",
+      "result": "Smoke"
+    },
+    "Volcano+Mud": {
+      "first": "Volcano",
+      "second": "Mud",
+      "result": "Lava"
+    },
+    "Volcano+Planet": {
+      "first": "Volcano",
+      "second": "Planet",
+      "result": "Earth"
+    },
+    "Volcano+Plant": {
+      "first": "Volcano",
+      "second": "Plant",
+      "result": "Lava"
+    },
+    "Volcano+Pollen": {
+      "first": "Volcano",
+      "second": "Pollen",
+      "result": "Eruption"
+    },
+    "Volcano+Sand": {
+      "first": "Volcano",
+      "second": "Sand",
+      "result": "Glass"
+    },
+    "Volcano+Sandstorm": {
+      "first": "Volcano",
+      "second": "Sandstorm",
+      "result": "Eruption"
+    },
+    "Volcano+Seaweed": {
+      "first": "Volcano",
+      "second": "Seaweed",
+      "result": "Sushi"
+    },
+    "Volcano+Smoke": {
+      "first": "Volcano",
+      "second": "Smoke",
+      "result": "Eruption"
+    },
+    "Volcano+Steam": {
+      "first": "Volcano",
+      "second": "Steam",
+      "result": "Lava"
+    },
+    "Volcano+Stone": {
+      "first": "Volcano",
+      "second": "Stone",
+      "result": "Lava"
+    },
+    "Volcano+Storm": {
+      "first": "Volcano",
+      "second": "Storm",
+      "result": "Eruption"
+    },
+    "Volcano+Surf": {
+      "first": "Volcano",
+      "second": "Surf",
+      "result": "Surfing"
+    },
+    "Volcano+Swamp": {
+      "first": "Volcano",
+      "second": "Swamp",
+      "result": "Lava"
+    },
+    "Volcano+Tea": {
+      "first": "Volcano",
+      "second": "Tea",
+      "result": "Lava"
+    },
+    "Volcano+Tree": {
+      "first": "Volcano",
+      "second": "Tree",
+      "result": "Lava"
+    },
+    "Volcano+Tsunami": {
+      "first": "Volcano",
+      "second": "Tsunami",
+      "result": "Earthquake"
+    },
+    "Volcano+Wave": {
+      "first": "Volcano",
+      "second": "Wave",
+      "result": "Lava"
+    },
+    "Volcano+Wind": {
+      "first": "Volcano",
+      "second": "Wind",
+      "result": "Eruption"
+    },
+    "Water+Ash": {
+      "first": "Water",
+      "second": "Ash",
+      "result": "Puddle"
+    },
+    "Water+Cloud": {
+      "first": "Water",
+      "second": "Cloud",
+      "result": "Rain"
+    },
+    "Water+Dandelion": {
+      "first": "Water",
+      "second": "Dandelion",
+      "result": "Wine"
+    },
+    "Water+Dust": {
+      "first": "Water",
+      "second": "Dust",
+      "result": "Mud"
+    },
+    "Water+Engine": {
+      "first": "Water",
+      "second": "Engine",
+      "result": "Steam"
+    },
+    "Water+Fire": {
+      "first": "Water",
+      "second": "Fire",
+      "result": "Steam"
+    },
+    "Water+Fog": {
+      "first": "Water",
+      "second": "Fog",
+      "result": "Ice"
+    },
+    "Water+Incense": {
+      "first": "Water",
+      "second": "Incense",
+      "result": "Perfume"
+    },
+    "Water+Lava": {
+      "first": "Water",
+      "second": "Lava",
+      "result": "Stone"
+    },
+    "Water+Mud": {
+      "first": "Water",
+      "second": "Mud",
+      "result": "Swamp"
+    },
+    "Water+Planet": {
+      "first": "Water",
+      "second": "Planet",
+      "result": "Ocean"
+    },
+    "Water+Pollen": {
+      "first": "Water",
+      "second": "Pollen",
+      "result": "Honey"
+    },
+    "Water+Sand": {
+      "first": "Water",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Water+Sandstorm": {
+      "first": "Water",
+      "second": "Sandstorm",
+      "result": "Oasis"
+    },
+    "Water+Seaweed": {
+      "first": "Water",
+      "second": "Seaweed",
+      "result": "Kelp"
+    },
+    "Water+Steam": {
+      "first": "Water",
+      "second": "Steam",
+      "result": "Cloud"
+    },
+    "Water+Stone": {
+      "first": "Water",
+      "second": "Stone",
+      "result": "Rock"
+    },
+    "Water+Storm": {
+      "first": "Water",
+      "second": "Storm",
+      "result": "Rain"
+    },
+    "Water+Surf": {
+      "first": "Water",
+      "second": "Surf",
+      "result": "Wave"
+    },
+    "Water+Swamp": {
+      "first": "Water",
+      "second": "Swamp",
+      "result": "Marsh"
+    },
+    "Water+Tea": {
+      "first": "Water",
+      "second": "Tea",
+      "result": "Tea"
+    },
+    "Water+Tree": {
+      "first": "Water",
+      "second": "Tree",
+      "result": "River"
+    },
+    "Water+Tsunami": {
+      "first": "Water",
+      "second": "Tsunami",
+      "result": "Ocean"
+    },
+    "Water+Volcano": {
+      "first": "Water",
+      "second": "Volcano",
+      "result": "Lava"
+    },
+    "Water+Wave": {
+      "first": "Water",
+      "second": "Wave",
+      "result": "Tsunami"
+    },
+    "Water+Wind": {
+      "first": "Water",
+      "second": "Wind",
+      "result": "Wave"
+    },
+    "Wave+Dandelion": {
+      "first": "Wave",
+      "second": "Dandelion",
+      "result": "Seaweed"
+    },
+    "Wave+Fog": {
+      "first": "Wave",
+      "second": "Fog",
+      "result": "Surf"
+    },
+    "Wave+Mud": {
+      "first": "Wave",
+      "second": "Mud",
+      "result": "Beach"
+    },
+    "Wave+Pollen": {
+      "first": "Wave",
+      "second": "Pollen",
+      "result": "Surf"
+    },
+    "Wave+Sand": {
+      "first": "Wave",
+      "second": "Sand",
+      "result": "Beach"
+    },
+    "Wave+Sandstorm": {
+      "first": "Wave",
+      "second": "Sandstorm",
+      "result": "Tsunami"
+    },
+    "Wave+Stone": {
+      "first": "Wave",
+      "second": "Stone",
+      "result": "Rock"
+    },
+    "Wave+Storm": {
+      "first": "Wave",
+      "second": "Storm",
+      "result": "Tsunami"
+    },
+    "Wave+Swamp": {
+      "first": "Wave",
+      "second": "Swamp",
+      "result": "Tsunami"
+    },
+    "Wave+Tea": {
+      "first": "Wave",
+      "second": "Tea",
+      "result": "Tsunami"
+    },
+    "Wave+Tsunami": {
+      "first": "Wave",
+      "second": "Tsunami",
+      "result": "Tsunami"
+    },
+    "Wind+Dust": {
+      "first": "Wind",
+      "second": "Dust",
+      "result": "Sandstorm"
+    },
+    "Wind+Fog": {
+      "first": "Wind",
+      "second": "Fog",
+      "result": "Cloud"
+    },
+    "Wind+Lava": {
+      "first": "Wind",
+      "second": "Lava",
+      "result": "Volcano"
+    },
+    "Wind+Plant": {
+      "first": "Wind",
+      "second": "Plant",
+      "result": "Dandelion"
+    },
+    "Wind+Pollen": {
+      "first": "Wind",
+      "second": "Pollen",
+      "result": "Allergy"
+    },
+    "Wind+Sand": {
+      "first": "Wind",
+      "second": "Sand",
+      "result": "Dune"
+    },
+    "Wind+Smoke": {
+      "first": "Wind",
+      "second": "Smoke",
+      "result": "Cloud"
+    },
+    "Wind+Steam": {
+      "first": "Wind",
+      "second": "Steam",
+      "result": "Cloud"
+    },
+    "Wind+Swamp": {
+      "first": "Wind",
+      "second": "Swamp",
+      "result": "Mist"
+    },
+    "Wind+Wave": {
+      "first": "Wind",
+      "second": "Wave",
+      "result": "Storm"
+    }
+  }
+}
