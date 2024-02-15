@@ -8,6 +8,9 @@ You must modify the program to change the iteration count (soon to be a command 
 
 I **highly** recommend using a VPN when running this, so if you do get ratelimited, you can still use Infinite Craft when your turn your VPN off.
 
+## CLI Option
+There is currently one option, --load=path/to/crafting_data.json. This continues where crafting_data left off.
+
 ## Output format
 After running, a file (`crafting_data.json`) will be outputted, with the following data structure.
 
