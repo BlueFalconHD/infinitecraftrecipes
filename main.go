@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"time"
+	"flag"
 )
 
 // apiRequest sends a GET request to the specified URL and returns the response body.
@@ -90,6 +91,11 @@ func (r *Recipe) equalsAny(recipes []Recipe) bool {
 // craft performs the crafting operation by sending a request to an external API
 // and updates the recipe with the result.
 func (r *Recipe) craft() (string, error) {
+	if r.FirstItem == nil || r.SecondItem == nil {
+		return "", fmt.Errorf("either FirstItem or SecondItem is nil")
+	}
+	
+
 	url := fmt.Sprintf("https://neal.fun/api/infinite-craft/pair?first=%s&second=%s", r.FirstItem.Name, r.SecondItem.Name)
 	body, err := apiRequest(url)
 	if err != nil {
@@ -136,6 +142,7 @@ type CraftingData struct {
 	Recipes  map[string]*Recipe `json:"recipes,omitempty"` // Map of processed recipes
 	ItemID   int                `json:"-"`                   // Counter for generating unique item IDs
 	RecipeID int                `json:"-"`                 // Counter for generating unique recipe IDs
+	Iterations int 				`json:"iterations"`
 }
 
 // addItem adds a new item to the CraftingData or updates an existing one with a new recipe.
@@ -233,30 +240,64 @@ func (c *CraftingData) save() {
 	}
 }
 
+
+// load loads the CraftingData from a JSON file.
+func (c *CraftingData) load(filePath string) {
+	jsonData, err := ioutil.ReadFile(filePath)
+	if err != nil {
+		log.Fatalf("Error reading from file: %v", err)
+	}
+	err = json.Unmarshal(jsonData, c)
+	if err != nil {
+		log.Fatalf("Error unmarshalling data: %v", err)
+	}
+}
+
+var loadPath string
+
+func init() {
+	// Define the command line flag
+	flag.StringVar(&loadPath, "load", "", "Path to a JSON file to load crafting data from")
+}
+
 // main initializes the crafting simulation with basic items and processes recipes in iterations.
 func main() {
+	// Parse command line flags
+	flag.Parse()
+
 	data := CraftingData{
 		Items:   make(map[string]*Item),
 		Recipes: make(map[string]*Recipe),
+		Iterations: 0,
 	}
 
-	// Initialize with basic items
-	basicItems := []Item{
-		{"🌎", "Earth", nil},
-		{"💧", "Water", nil},
-		{"🔥", "Fire", nil},
-		{"🌬️", "Wind", nil},
+
+	if loadPath != "" {
+		// Load data from the specified file
+		data.load(loadPath)
+	} else {
+		// Initialize with basic items if not loading from a file
+		basicItems := []Item{
+			{"🌎", "Earth", nil},
+			{"💧", "Water", nil},
+			{"🔥", "Fire", nil},
+			{"🌬️", "Wind", nil},
+		}
+
+		for _, item := range basicItems {
+			data.addItem(item.Name, item.Emoji, "")
+		}
 	}
 
-	for _, item := range basicItems {
-		data.addItem(item.Name, item.Emoji, "")
-	}
-
+	// The rest of the main function remains the same...
 	// Generate and process recipes in iterations
-	for i := 0; i < 3; i++ {
+
+
+	for i := data.Iterations; i < 5; i++ {
 		data.generateValidRecipes()
 		data.processRecipes()
 		data.save()
 		fmt.Printf("Iteration %d: Items: %d, Recipes: %d\n", i+1, len(data.Items), len(data.Recipes))
+		data.Iterations += 1
 	}
 }
